@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+
+# Tài liệu và báo cáo cá nhân, không đẩy lên git
+TAI_LIEU/
+BAO_CAO.md
